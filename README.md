@@ -115,6 +115,7 @@ add_shortcode( 'hexclock', 'hex_clock_shortcode' );
 ```
 
 Unigeo64 is the beautiful font created by [Zetafonts](https://www.zetafonts.com/unigeo) in use on koandesign.com, hence the `unigeo64light` reference above. 
+
 You can always decouple the HTML, CSS and JS parts from this code, if you don't run WordPress and want to implement this elsewhere.
 
 ## Installation
@@ -123,7 +124,8 @@ Copy the raw PHP code you find in `hexadecimal-clock.php` and add it to your Wor
 - editing the `functions.php` file in your theme, which I would never recommend unless you are using a child theme; 
 - adding this code into a snippets manager plugin.
 
-My favourite snippets manager is **Fluent Snippets**. I do not have any affiliation with Fluent, it's simply the plugin I use because it's free and does not bloat the database but keeps all snippets in separate external files (easier to manage, backup and transfer and also much better performance). Whatever your preference, this snippet works in whatever plugin you are using.
+My favourite snippets manager is **Fluent Snippets**. I do not have any affiliation with Fluent, it's simply the plugin I use because it's free and does not bloat the database but keeps all snippets in separate external files (easier to manage, backup and transfer and also much better performance). 
+Whatever your preference, this snippet works in whatever plugin you are using.
 
 Of course, *always make a backup copy of your current WordPress before making any changes*.
 
@@ -136,5 +138,6 @@ There are no particular requirements, but this has been tested in the following 
 ## License
 
 This plugin is licensed under the [GNU General Public License v2 or later](LICENSE). 
+
 Leaving the copyright notice intact is appreciated, but not required.
 
