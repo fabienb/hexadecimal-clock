@@ -4,7 +4,7 @@ _If this is helpful to you in any way, please consider donating via [Paypal](htt
 
 ## About
 
-I wrote this fun 'hexadecimal clock' on CodePen in 2013. It simply displays the current time as a HEX colour code, filling the background with the relative colour. I believe it was inspired by a similar project, but I was unable to find it again after all these years.
+I wrote this fun 'hexadecimal clock' on CodePen in 2013. It simply displays the current time as a HEX colour code, filling the background with the relative RGB colour. I believe it was inspired by a similar project, but I was unable to find it again after all these years.
 These are the HTML, CSS and JS that made everything possible:
 
 ```html
@@ -135,6 +135,6 @@ There are no particular requirements, but this has been tested in the following 
 
 ## License
 
-This plugin is licensed under the [GNU General Public License v2 or later](LICENSE).
+This plugin is licensed under the [GNU General Public License v2 or later](LICENSE). 
 Leaving the copyright notice intact is appreciated, but not required.
 
