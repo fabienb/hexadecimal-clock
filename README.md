@@ -119,8 +119,8 @@ You can always decouple the HTML, CSS and JS parts from this code, if you don't 
 
 ## Installation
 
-Copy the raw PHP code you find in snippet.php and add it to your WordPress. This can be done in 2 different ways: 
-- editing the functions.php file in your theme, which I would never recommend unless you are using a child theme; 
+Copy the raw PHP code you find in `hexadecimal-clock.php` and add it to your WordPress. This can be done in 2 different ways: 
+- editing the `functions.php` file in your theme, which I would never recommend unless you are using a child theme; 
 - adding this code into a snippets manager plugin.
 
 My favourite snippets manager is **Fluent Snippets**. I do not have any affiliation with Fluent, it's simply the plugin I use because it's free and does not bloat the database but keeps all snippets in separate external files (easier to manage, backup and transfer and also much better performance). Whatever your preference, this snippet works in whatever plugin you are using.
