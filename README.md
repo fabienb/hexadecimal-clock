@@ -4,7 +4,10 @@ _If this is helpful to you in any way, please consider donating via [Paypal](htt
 
 ## About
 
-I wrote this fun 'hexadecimal clock' on CodePen in 2013. It simply displays the current time as a HEX colour code, filling the background with the relative RGB colour. I believe it was inspired by a similar project, but I was unable to find it again after all these years.
+I wrote this fun 'hexadecimal clock' on CodePen in 2013. It simply displays the current time as a HEX colour code, filling the background with the relative RGB colour. For example, `16:07:24` becomes `#160724` (a very dark shade of blue-magenta, `rgb: 22, 7, 36`).
+
+I believe it was inspired by a similar project, but I was unable to find it again after all these years.
+
 These are the HTML, CSS and JS that made everything possible:
 
 ```html
